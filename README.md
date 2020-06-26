@@ -11,3 +11,5 @@ The model produced an accuracy of 97.73% on the training set and 93.81% on the t
 The dataset used for the model can be found here: https://www.kaggle.com/anant1205/asl-alphabet-new-24
 
 The model was trained on 24 letters, instead of 26 since the letters J and Z require motion.
+
+Collaborator: Souhardya Ganguly, Github: https://github.com/skylumos
