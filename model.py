@@ -5,8 +5,7 @@ classifier = Sequential()
 
 #First Layer
 classifier.add(Conv2D(filters = 64, kernel_size = (4, 4), 
-                      input_shape = (64, 64, 
-                                     3), activation = 'relu'))
+                      input_shape = (64, 64, 3), activation = 'relu'))
 
 classifier.add(Conv2D(filters = 64, kernel_size = (4, 4), strides = 2,  activation = 'relu'))
 
